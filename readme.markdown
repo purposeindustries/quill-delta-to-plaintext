@@ -1,4 +1,4 @@
-# quill-delta-to-plaintext
+# quill-delta-to-plaintext [![travis-badge]][travis]
 
 > Convert [Quill][quill] [delta operations][delta] to plaintext
 
@@ -33,3 +33,5 @@ ISC
 [delta]: https://github.com/quilljs/delta/
 [pkg]: https://www.npmjs.com/package/quill-delta-to-plaintext
 [npm]: https://www.npmjs.com/
+[travis]: https://travis-ci.org/purposeindustries/quill-delta-to-plaintext
+[travis-badge]: https://travis-ci.org/purposeindustries/quill-delta-to-plaintext.svg?branch=master
